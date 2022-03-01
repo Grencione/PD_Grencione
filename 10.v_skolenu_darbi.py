@@ -23,7 +23,8 @@
 #11 Stankevičs Viesturs
 
 #12 Strazds Emīls
-
+print(cos(radians(60)+fmod(15,2)))
+#Rindā Nr.26 pievienoju matemātisku darbību cos60+0.5
 #13 Škutāne Ieva
 
 #14 Zīle Kristaps 
