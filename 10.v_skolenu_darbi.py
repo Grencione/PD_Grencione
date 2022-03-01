@@ -25,6 +25,6 @@
 #12 Strazds Emīls
 
 #13 Škutāne Ieva
-
+print(cos(radians(60)+fmod(15,2)))
 #14 Zīle Kristaps 
 
