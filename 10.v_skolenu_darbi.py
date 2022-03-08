@@ -9,7 +9,7 @@
 #4 Dzērve Artūrs
 
 #5 Greilihs Dīvs Rihards
-
+Žēl
 #6 Lange Rūdolfs Toms
 
 #7 Meškonis Aleksandrs Nils
