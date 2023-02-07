@@ -21,7 +21,7 @@
 #10 Ločmele Līva
 
 #11 Milliņš Māris
-
+print(cos(radians(60)+fmod(15,2)))
 #12 Plonis Gustavs
 
 #13 Strazdiņa Paula Marta
