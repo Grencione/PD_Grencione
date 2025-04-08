@@ -11,4 +11,4 @@
 #5 Lisovskis Ričards
 
 #6 Līberts Emīls
-
+print(cos(radians(60)+fmod(15,2)))
